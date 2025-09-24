@@ -1,0 +1,11 @@
+{
+	"id": "settings-tab-plugin",
+	"name": "Settings Tab Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A customizable settings tab plugin for Obsidian",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/yourusername",
+	"fundingUrl": "https://buymeacoffee.com/yourusername",
+	"isDesktopOnly": false
+}

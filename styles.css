@@ -1,0 +1,24 @@
+.settings-view-content {
+    overflow: hidden !important;
+    padding: 0 !important;
+}
+
+.settings-view-content .vertical-tabs-container {
+    height: 100%;
+}
+
+.vertical-tabs-container .vertical-tab-header {
+    flex: 0 0 25%;
+    min-width: 180px;
+    max-width: 250px;
+    overflow: auto;
+}
+
+.settings-error {
+    color: var(--text-error);
+    background-color: var(--background-modifier-error);
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid var(--background-modifier-error-border);
+    margin: 20px 0;
+}
