@@ -1,13 +1,14 @@
-# Settings Tab Plugin
+# Settings In Tab Plugin for Obsidian
 
-A customizable settings tab plugin for Obsidian.
+A plugin to open Obsidian settings in a tab.
 
 ## Features
 
-- Customizable settings interface
-- Ribbon icon and status bar integration
-- Command palette commands
-- Configurable options with various input types
+- Ribbon icon to open the settings in a tab
+- Command palette command to open settings in a tab
+
+## Limitations
+On the Community Plugins page, the Options and Hotkeys button do not navigate to the plugin's options tab or hotkeys tab, respectively.
 
 ## Installation
 
@@ -30,16 +31,8 @@ A customizable settings tab plugin for Obsidian.
 
 Once installed and enabled:
 
-1. You'll see a new ribbon icon on the left sidebar
-2. Access plugin settings via Settings > Plugin Options > Settings Tab Plugin
-3. Use commands from the Command Palette
-4. Configure the plugin options to your liking
-
-## Settings
-
-- **Setting #1**: A text input for secret configuration
-- **Enable Feature**: Toggle to enable/disable plugin features
-- **Number Setting**: Slider to adjust numeric values
+1. You'll see a new ribbon icon on the left sidebar to open the settings in a new tab
+2. Use commands from the Command Palette to open settings in a new tab
 
 ## Development Notes
 
