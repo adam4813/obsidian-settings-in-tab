@@ -1,5 +1,7 @@
 # Settings In Tab Plugin for Obsidian
 
+<img width="648" height="378" alt="image" src="https://github.com/user-attachments/assets/c4d4da2e-6b77-4fde-b63a-ac46353a52bc" />
+
 A plugin to open Obsidian settings in a tab.
 
 The default hotkey to open settings in a tab is `Ctrl+Shift+S` (or `Cmd+Shift+S` on Mac).
