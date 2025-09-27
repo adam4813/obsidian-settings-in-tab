@@ -19,7 +19,7 @@ On the Community Plugins page, the Options and Hotkeys button do not navigate to
 ### Manual Installation
 
 1. Download the latest release
-2. Extract the plugin folder to your vault's plugins folder: `<vault>/.obsidian/plugins/settings-tab-plugin/`
+2. Extract the plugin folder to your vault's plugins folder: `<vault>/.obsidian/plugins/settings-in-tab/`
 3. Reload Obsidian
 4. Enable the plugin in Settings > Community Plugins
 
